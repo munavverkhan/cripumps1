@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/munavverkhan/cripumps1/static/css/main.9729edfb.chunk.css",
+    "main.js": "/munavverkhan/cripumps1/static/js/main.7e412f69.chunk.js",
+    "main.js.map": "/munavverkhan/cripumps1/static/js/main.7e412f69.chunk.js.map",
+    "runtime-main.js": "/munavverkhan/cripumps1/static/js/runtime-main.6d8d276f.js",
+    "runtime-main.js.map": "/munavverkhan/cripumps1/static/js/runtime-main.6d8d276f.js.map",
+    "static/js/2.b0ad773b.chunk.js": "/munavverkhan/cripumps1/static/js/2.b0ad773b.chunk.js",
+    "static/js/2.b0ad773b.chunk.js.map": "/munavverkhan/cripumps1/static/js/2.b0ad773b.chunk.js.map",
+    "index.html": "/munavverkhan/cripumps1/index.html",
+    "precache-manifest.b2f8d937a47b1dbfde57132d4091d02a.js": "/munavverkhan/cripumps1/precache-manifest.b2f8d937a47b1dbfde57132d4091d02a.js",
+    "service-worker.js": "/munavverkhan/cripumps1/service-worker.js",
+    "static/css/main.9729edfb.chunk.css.map": "/munavverkhan/cripumps1/static/css/main.9729edfb.chunk.css.map",
+    "static/js/2.b0ad773b.chunk.js.LICENSE.txt": "/munavverkhan/cripumps1/static/js/2.b0ad773b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/munavverkhan/cripumps1/static/media/1.29d96123.png",
+    "static/media/2.png": "/munavverkhan/cripumps1/static/media/2.57d5c650.png",
+    "static/media/3.png": "/munavverkhan/cripumps1/static/media/3.b5ddb141.png",
+    "static/media/logo.png": "/munavverkhan/cripumps1/static/media/logo.5762018e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8d276f.js",
+    "static/js/2.b0ad773b.chunk.js",
+    "static/css/main.9729edfb.chunk.css",
+    "static/js/main.7e412f69.chunk.js"
+  ]
+}
